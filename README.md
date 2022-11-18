@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Welcome to my calculator!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app.js file was written by Evan Barden.
 
 ## Available Scripts
 
